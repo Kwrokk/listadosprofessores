@@ -1,0 +1,28 @@
+div{
+  	
+        margin-right: 150px;
+        margin-left: 150px;
+}
+.Pablo{
+	width: 300px;
+        height:300px;
+	
+}
+body{
+	text-align: center;
+	background-color: #889edb;
+}
+*{
+	list-style: none;
+}
+p{
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	border-style: groove;
+	border-width: 10px;
+	border-color: #a3bbff;
+	background-color:#6c7dad;
+}
+h3{
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
